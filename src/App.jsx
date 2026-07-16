@@ -235,6 +235,14 @@ const projects = [
   tags: ["Venue Booking", "Availability", "Marketplace"],
   number: "13",
 },
+{
+  name: "SkillSphere AI",
+  type: "AI-Powered MERN SaaS",
+  description:
+    "A production-grade professional networking and freelance collaboration platform with secure authentication, job management, real-time chat, payments, and AI-powered features.",
+  tags: ["MERN Stack", "Socket.io", "AI Integration"],
+  number: "14",
+},
 ];
 
 function SectionHeading({ eyebrow, title, description }) {
