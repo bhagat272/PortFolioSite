@@ -204,12 +204,20 @@ const projects = [
     number: "09",
   },
   {
+    name: "RESCUlink",
+    type: "Emergency Safety Platform",
+    description:
+      "A real-time safety app for sending location-based distress alerts to venue security and medical response teams.",
+    tags: ["React Native", "Geolocation", "Realtime Alerts"],
+    number: "10",
+  },
+  {
     name: "Bookify",
     type: "Reservation System",
     description:
       "A reservation product with secure authentication, admin controls, and scalable booking workflows.",
     tags: ["Authentication", "Admin", "Booking"],
-    number: "10",
+    number: "11",
   },
   {
     name: "Feedin",
@@ -217,7 +225,7 @@ const projects = [
     description:
       "A dynamic form and feedback system backed by scalable APIs for structured data collection.",
     tags: ["Dynamic Forms", "REST API"],
-    number: "11",
+    number: "12",
   },
 ];
 
