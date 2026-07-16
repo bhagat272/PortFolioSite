@@ -95,7 +95,7 @@ const experience = [
   {
     company: "The NineHertz",
     role: "Associate Software Engineer",
-    period: "Aug 2024 — Present",
+    period: "Aug 2024 — May 2026",
     location: "Jaipur, India",
     summary:
       "Building production-ready cross-platform applications with a focus on performance, reusable architecture, and reliable API integration.",
