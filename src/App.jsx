@@ -227,6 +227,14 @@ const projects = [
     tags: ["Dynamic Forms", "REST API"],
     number: "12",
   },
+  {
+  name: "VenueNear",
+  type: "Event Venue Marketplace",
+  description:
+    "A web and mobile-friendly platform for discovering, comparing availability, and booking nearby venues for different events and occasions.",
+  tags: ["Venue Booking", "Availability", "Marketplace"],
+  number: "13",
+},
 ];
 
 function SectionHeading({ eyebrow, title, description }) {
